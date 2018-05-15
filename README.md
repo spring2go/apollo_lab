@@ -1,15 +1,16 @@
 # apollo_lab
-Apollo架构和实践的PPT+实验指导
+微服务配置中心Apollo架构和实践的PPT+实验指导
 
 
 # 课程ppt
 1. [微服务配置中心Apollo架构和实践](ppt/微服务配置中心Apollo架构和实践.pdf)
 
 # 实验软件需求
-1. [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. [MySQL](https://dev.mysql.com/downloads/)
-3. [Postman](https://www.getpostman.com/)
-4. [Eclipse STS](https://spring.io/tools)
+1. [JDK 1.8+](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. [MySQL(5.6.5+)+Workbench](https://dev.mysql.com/downloads/)
+3. [Git for Windows](https://gitforwindows.org/)
+4. [Postman](https://www.getpostman.com/)
+5. [Eclipse STS](https://spring.io/tools)
 
 # 实验目录
 1. [lab01](lab01)~Apollo快速起步
