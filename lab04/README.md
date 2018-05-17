@@ -1,4 +1,4 @@
-实验3:Apollo Client和Spring集成(代码方式)
+实验4:Apollo Client和Spring集成(代码方式)
 ======
 
 ### 一、实验步骤
