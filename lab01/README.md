@@ -24,7 +24,7 @@ demo.sh里头用户名/密码
 #### 4. 启动Apollo配置中心
 确保8070/8080/8090端口未被占用
 ```
-./demo.sh
+./demo.sh start
 ```
 
 #### 5. 登录Apollo
