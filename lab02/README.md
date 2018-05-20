@@ -16,9 +16,15 @@ a. 环境变量方式
 
 b. 本地文件配置
 
+环境
 ```
 (C:\opt\settings\server.properties)
 env=DEV
+```
+
+MetaServer地址
+````
+classpath:app-env.properties
 dev.meta=http://localhost:8080
 ```
 
