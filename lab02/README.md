@@ -7,25 +7,12 @@
 参考[实验1](../lab01)
 
 #### 2. 环境和配置中心地址
-a. 环境变量方式
+
+环境变量方式
 
 ```
 -Denv=dev
 -Ddev_meta=http://localhost:8080
-```
-
-b. 本地文件配置
-
-环境
-```
-(C:\opt\settings\server.properties)
-env=DEV
-```
-
-MetaServer地址
-```
-classpath:app-env.properties
-dev.meta=http://localhost:8080
 ```
 
 #### 3. 缺省配置

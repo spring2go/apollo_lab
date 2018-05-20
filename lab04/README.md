@@ -9,25 +9,11 @@
 **注意清理前面实验的本地缓存**
 
 #### 2. 环境和配置中心地址
-a. 环境变量方式
+变量方式
 
 ```
 -Denv=dev
 -Ddev_meta=http://localhost:8080
-```
-
-b. 本地文件配置
-
-环境
-```
-(C:\opt\settings\server.properties)
-env=DEV
-```
-
-MetaServer地址
-```
-classpath:app-env.properties
-dev.meta=http://localhost:8080
 ```
 
 #### 3. 配置类
