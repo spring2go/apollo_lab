@@ -15,12 +15,12 @@ http://{portal_address}/open/manage.html
 
 #### 3. 调用Http REST接口
 
-- Http Header 1
- - Authorization
- - token
-- Http Header 2
- - Content-Type
- - application/json;charset=UTF-8
+* Http Header 1
+  * Authorization
+  * token
+* Http Header 2
+  * Content-Type
+  * application/json;charset=UTF-8
 
 #### 4. 获取App环境，集群信息
 
