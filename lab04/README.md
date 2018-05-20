@@ -25,7 +25,7 @@ env=DEV
 ```
 
 MetaServer地址
-````
+```
 classpath:app-env.properties
 dev.meta=http://localhost:8080
 ```
