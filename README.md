@@ -10,7 +10,7 @@
 2. [MySQL(5.6.5+)+Workbench](https://dev.mysql.com/downloads/)
 3. [Git for Windows](https://gitforwindows.org/)
 4. [Postman](https://www.getpostman.com/)
-5. [Eclipse STS](https://spring.io/tools)
+5. Eclipse STS 3.9.5下载1[网盘](https://pan.baidu.com/s/1xqy4G_r9N24WODBBuGlIog) 下载2[国外](https://spring.io/tools)
 
 # 实验目录
 1. [lab01](lab01)~Apollo快速起步
